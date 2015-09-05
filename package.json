@@ -1,6 +1,6 @@
 {
   "name": "distribute-array",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Distributes one array evenly between a given number of smaller arrays",
   "main": "./lib/distribute-array.js",
   "directories": {
