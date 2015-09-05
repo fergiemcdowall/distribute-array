@@ -1,0 +1,35 @@
+{
+  "name": "distribute-array",
+  "version": "0.0.1",
+  "description": "Distributes one array evenly between a given number of smaller arrays",
+  "main": "./lib/distribute-array.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fergiemcdowall/distribute-array.git"
+  },
+  "devDependencies": {
+    "mocha": "2.3.0",
+    "should": "7.1.0"
+  },
+  "dependencies": {
+    "lodash": "3.10.1"
+  },
+  "keywords": [
+    "distribute",
+    "array",
+    "chunk",
+    "evenly"
+  ],
+  "author": "Fergus McDowall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fergiemcdowall/distribute-array/issues"
+  },
+  "homepage": "https://github.com/fergiemcdowall/distribute-array#readme"
+}
