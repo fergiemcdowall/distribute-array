@@ -5,7 +5,7 @@
 Distributes one array evenly between a given number of smaller arrays
 
 ```javascript
-var da = require('distributed-array');
+var da = require('distribute-array');
 var arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
 newArr = da(arr, 3);  // newArr is now [ [ 1, 2, 3, 10 ], [ 4, 5, 6 ], [ 7, 8, 9 ] ] 
